@@ -1,0 +1,4 @@
+0 0 */12 * * NODE_ENV=production node /usr/src/app/crawl/crawling_top11_matches.js && NODE_ENV=production node /usr/src/app/crawl/crawling_top11_pregame.js
+*/5 * * * * NODE_ENV=production node /usr/src/app/crawl/crawling_top11_pregame.js
+* 5 */1 * * NODE_ENV=production node /usr/src/app/crawl/crawling_top11_standings.js
+*/20 * * * * NODE_ENV=production node /usr/src/app/mysql2es.js

@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vtvcab.onsports",
+    "sha256_cert_fingerprints":
+    ["A1:D1:C0:58:07:B7:E9:6A:9F:A6:11:9D:D0:E4:22:D9:9E:63:4D:93:D4:93:4B:18:1D:DA:9A:23:E8:5F:59:74"]
+  }
+}]

@@ -1,0 +1,11 @@
+FROM node:alpine
+WORKDIR /usr/src/app
+RUN apk --no-cache add git
+COPY package.json /usr/src/app/
+RUN yarn
+# RUN yarn global add sequelize-cli
+COPY . /usr/src/app/
+COPY .env.prod /usr/src/app/.env
+RUN crontab ./crontab
+RUN chmod 777 /var/spool/cron/crontabs/root
+CMD ["/usr/sbin/crond", "-f", "-d", "0"]

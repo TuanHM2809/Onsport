@@ -1,0 +1,27 @@
+{
+  "badWords": [
+    "dit",
+    "dm",
+    "fuck",
+    "bitch",
+    "dog",
+    "cho dai",
+    "cho",
+    "chó",
+    "dit me",
+    "lon",
+    "loz",
+    "địt",
+    "lồn",
+    "cặc",
+    "buồi",
+    "diz",
+    "dis",
+    "đm",
+    ".Du.me.mi",
+    ".l ồn",
+    ".l ồn.to",
+    ".Lồn.me",
+    ".đ.m", ".địt", "Á đù.l ồn.sưng", "âm đạo", "an cut", "An l0n", "b.uồi", "B.ƯỚM.", "Bon cko", "bóp vú", "bop vu", "bú", "Bu Cu", "Bú Ku", "BÚ L.Ồ.N", "Buồi", "buồi", "BUỒI", "Buồj", "C.Ặ.C", "c.ặ.c", "c.ă.c", "C.ẶC", "c.h.ó", "c.hó", "C.k.ó", "c.k.ó", "c.kó", "cặ c", "ca ve", "cặ.c", "Cặc", "căc", "cặc", "cẶc", "cac", "Cái Chim", "cái lờ", "Cái Lồn", "Cai Lon", "Cái Trim", "cái.l ồn.", "cái.l.ồn", "Cặk", "cẶn bã", "cặn bã", "cặt", "cave", "cc", "cẹc", "CH.Ó", "Ch.ó", "chập mạch", "Chim Thúi", "chÓ", "chó", "chÓ dại.", "chÓ kứt", "ck.ó", "ckó", "ckÓ", "CkÓ", "cko", "ckó", "CMM", "CỜ HÓ", "con cac", "con căc", "con cẹc", "con cko", "Con di", "con diem", "con hoang", "Con Mẹ", "cức", "cưc", "cục cặc", "cuc cac", "cuc cut.", "cưkt", "cứt", "cựt", "cỨt", "cưt", "cut", "Cút Mẹ", "Cút mẹ", "d.ái", "dái", "dau buoi", "dcm", "dịt", "dit cu", "dit cu.", "Dit Me", "dit. cu", "djt me", "đĩ", "dj~", "dkm", "Dkm", "DM", "Dộg CỨT", "dương vật", "Dýt", "dyt", "f uck", "fuck", "Fuck", "fvck", "Fap", "hấ.p d.iêm", "Hấp Diêm", "Hiếp", "Hiếp Dâm", "hột le", "ỉa", "ỉA", "k.ứ.t", "k.ứt", "kăc", "kave", "kẹc", "kec", "khốn nạn", "Kon kac", "Kon kặk", "Kon.ckó", "kU", "kuc", "kức", "kưc", "kứt", "l ồ n", "L ồ n", "L ồn", "L ồn.lộn", "l.o.n", "l.ô.n", "l.ồ.n", "L.O.Z", "L.Ồ.Z", "l.on", "l.ồn", "L.ỒN", "l.oz", "L.OZ", "l0n", "lẳg lơ", "liếm", "liem lon", "lìn", "Lỗ lồ.n", "lỗ lồn", "lồ n", "LỒ n", "lò tôn", "lo.n", "lồ.n", "lô.n", "Lồn", "lồn", "lôn", "lỒn", "LỒN", "lòn", "lon", "Lon", "lồn .", "lòn me", "lon me", "lox", "loz", "lôz", "lồn", "lồn chảy nước dâm thủy", "lũ ch.ó", "mat lon", "Mặt Lồn", "mat trinh", "Máu Lồn", "mau lon", "mấu lờn", "Mẹ Con Chó", "Mẹ Kiếp", "me kiep", "mẹ kiếp", "Mẹ Mày", "mẹ mày", "mịa", "Mịa", "MỊA", "Mịe", "mịe", "mie", "Mọe", "MÚT L.Ồ.N", "ngua l0n", "ngưa.l ồn", "nhồn", "nhồn", "nhu lon", "nờ ứg", "nồn", "nứg", "NỨG", "NỨG L.ỒN", "Nứng", "nứng", "nỨng", "óc ch ó", "óc ngắn", "Phò", "Poon.lon", "Sex.", "shit", "sủa", "sục cặc", "Súc Vậ", "Súc Vật", "Thằg chÓ", "Thằng tộc", "theg ngu", "thổi kèn", "thủ dâm", "tÓ", "tó", "V.ế.u", "v.ếu", "vãi", "vai dai", "Vãi lờ", "Vãi lồ n", "Vãi lồ.n", "Vãi lốn", "Vãi Lón", "Vãi Lốn", "Vãi lón", "vai lon", "vaj lon", "vấu", "Vcl", "vếu", "vkl", "vl", "vlon", "vỡ mõm", "vồn", "ZÚ", "zú", "đ c m", "đ é 0", "đ éo", "đ ĩ", "đ nat lon", "Đ ụ", "Đ Ỹ", "đ.ệt", "đ.ĩ", "đ.ị.t", "đ.ịt", "đ.ít", "Đ.ị.t", "đ.m", "Đ.m", "đ.ụ", "Đ.ỹ", "đái", "Đầu Buồi", "đé.0", "đéo", "đÉo", "ĐÉO", "ĐỆT", "ĐệT", "ĐẾU", "Đĩ", "đĩ", "Đỉ", "ĐỈ", "đỉ", "đĨ", "Đị.t", "Địc", "Địck", "Điếm", "điếm", "địk", "địs", "đis", "Đis", "địt", "ĐÍT", "Địt", "đỊt", "đít", "Địt Mẹ", "đíu", "đi~", "Địt", "đljz", "ĐM", "đm", "Đồn như lời", "đụ", "Đụ", "đỤ", "ĐỤ", "Đụ Má", "đu ma", "đụ má", "đù má", "Đụ Mẹ", "đù mợ", "Đụ mợ", "đuệ mọe", "đuỵt", "đuỴt", "đuỵT", "đỹ", "đỵt", "Đỵt", "Đýt", "Đỵt"
+  ]
+}

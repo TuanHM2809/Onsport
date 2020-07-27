@@ -1,0 +1,25 @@
+{
+    "apps": [{
+        "name": "frontend.v2",
+        "script": "./build/main.js",
+        "watch": false,
+        "ignore_watch": [
+            "public",
+            ".cache",
+            ".vscode",
+            ".git",
+            "*.marko.js"
+        ],
+        "watch_options": {
+            "followSymlinks": false
+        },
+        "instances": 8,
+        "exec_mode": "cluster",
+        "env": {
+            "NODE_ENV": "production"
+        },
+        "env_production": {
+            "NODE_ENV": "production"
+        }
+    }]
+}

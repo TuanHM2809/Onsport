@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /bin/
+Disallow: /proxy
+Sitemap: https://onsports.vn/sitemap.xml
+Sitemap: https://onsports.vn/sitemap
