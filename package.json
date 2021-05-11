@@ -61,7 +61,7 @@
     "glob-all": "^3.1.0",
     "imports-loader": "^0.7.1",
     "jsonwebtoken": "^8.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "markdown-it": "^8.4.0",
     "markdown-it-attrs": "^1.2.0",
     "markdown-it-block-embed": "https://github.com/nghiatv/markdown-it-block-embed#v1.3",
