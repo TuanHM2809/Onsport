@@ -60,7 +60,7 @@
     "faker": "^4.1.0",
     "glob-all": "^3.1.0",
     "imports-loader": "^0.7.1",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.4",
     "markdown-it": "^8.4.0",
     "markdown-it-attrs": "^1.2.0",
